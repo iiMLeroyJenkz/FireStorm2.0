@@ -1,0 +1,2887 @@
+fileFormatVersion: 2
+guid: ebdd5e4a91d979c4493a6d189ccc74e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8409704241941468012
+    second: Enemy_Bazooka_0
+  - first:
+      213: 8696466624304207783
+    second: Enemy_Bazooka_1
+  - first:
+      213: -682174285798974315
+    second: Enemy_Bazooka_2
+  - first:
+      213: -6160631029963240501
+    second: Enemy_Bazooka_3
+  - first:
+      213: -238570776019386700
+    second: Enemy_Bazooka_4
+  - first:
+      213: 2422629364721557176
+    second: Enemy_Bazooka_5
+  - first:
+      213: 2407918752653453649
+    second: Enemy_Bazooka_6
+  - first:
+      213: -1929017262208929971
+    second: Enemy_Bazooka_7
+  - first:
+      213: -2180301572331444997
+    second: Enemy_Bazooka_8
+  - first:
+      213: 9016638572495373692
+    second: Enemy_Bazooka_9
+  - first:
+      213: 5692359755109892493
+    second: Enemy_Bazooka_10
+  - first:
+      213: 90038540778638256
+    second: Enemy_Bazooka_11
+  - first:
+      213: 3479957677485334227
+    second: Enemy_Bazooka_12
+  - first:
+      213: -6609973056877624420
+    second: Enemy_Bazooka_13
+  - first:
+      213: -5943005940341846533
+    second: Enemy_Bazooka_14
+  - first:
+      213: -4866518809547374731
+    second: Enemy_Bazooka_15
+  - first:
+      213: -5651387170931313087
+    second: Enemy_Bazooka_16
+  - first:
+      213: -1646012886483083289
+    second: Enemy_Bazooka_17
+  - first:
+      213: -3929623540127020631
+    second: Enemy_Bazooka_18
+  - first:
+      213: -2043721591381290129
+    second: Enemy_Bazooka_19
+  - first:
+      213: 8543434868194106878
+    second: Enemy_Bazooka_20
+  - first:
+      213: 1573316213607315128
+    second: Enemy_Bazooka_21
+  - first:
+      213: -6023406242467856782
+    second: Enemy_Bazooka_22
+  - first:
+      213: -8597203801951181930
+    second: Enemy_Bazooka_23
+  - first:
+      213: -6335437699017273857
+    second: Enemy_Bazooka_24
+  - first:
+      213: 6600689918809718699
+    second: Enemy_Bazooka_25
+  - first:
+      213: -5146947207103199226
+    second: Enemy_Bazooka_26
+  - first:
+      213: 2012261556492942743
+    second: Enemy_Bazooka_27
+  - first:
+      213: 4020703671328229696
+    second: Enemy_Bazooka_28
+  - first:
+      213: -6505926801941192333
+    second: Enemy_Bazooka_29
+  - first:
+      213: -5421146102607558560
+    second: Enemy_Bazooka_30
+  - first:
+      213: -7500232312355141978
+    second: Enemy_Bazooka_31
+  - first:
+      213: -7631393246143407232
+    second: Enemy_Bazooka_32
+  - first:
+      213: -3555271125318884609
+    second: Enemy_Bazooka_33
+  - first:
+      213: -2166031856865370209
+    second: Enemy_Bazooka_34
+  - first:
+      213: 1366444276900169115
+    second: Enemy_Bazooka_35
+  - first:
+      213: 7268616391314108804
+    second: Enemy_Bazooka_36
+  - first:
+      213: 791847957894622016
+    second: Enemy_Bazooka_37
+  - first:
+      213: -7085143295200452246
+    second: Enemy_Bazooka_38
+  - first:
+      213: -1358714709504029485
+    second: Enemy_Bazooka_39
+  - first:
+      213: 1961939303334097369
+    second: Enemy_Bazooka_40
+  - first:
+      213: 6839924359515757169
+    second: Enemy_Bazooka_41
+  - first:
+      213: 1655435273746179664
+    second: Enemy_Bazooka_42
+  - first:
+      213: -1628209697215822240
+    second: Enemy_Bazooka_43
+  - first:
+      213: 6669982667285527712
+    second: Enemy_Bazooka_44
+  - first:
+      213: -7717349165481487233
+    second: Enemy_Bazooka_45
+  - first:
+      213: -8907293131546399062
+    second: Enemy_Bazooka_46
+  - first:
+      213: 4067647986310516225
+    second: Enemy_Bazooka_47
+  - first:
+      213: -7070900211149653921
+    second: Enemy_Bazooka_48
+  - first:
+      213: -404434725411178630
+    second: Enemy_Bazooka_49
+  - first:
+      213: -7091482495965162558
+    second: Enemy_Bazooka_50
+  - first:
+      213: -3781848122049681555
+    second: Enemy_Bazooka_51
+  - first:
+      213: -8719949234564609873
+    second: Enemy_Bazooka_52
+  - first:
+      213: -2485345565103576639
+    second: Enemy_Bazooka_53
+  - first:
+      213: 7616458273998183861
+    second: Enemy_Bazooka_54
+  - first:
+      213: -587842206072037119
+    second: Enemy_Bazooka_55
+  - first:
+      213: 5757493233055185606
+    second: Enemy_Bazooka_56
+  - first:
+      213: -351351206617734852
+    second: Enemy_Bazooka_57
+  - first:
+      213: 4271434795631194398
+    second: Enemy_Bazooka_58
+  - first:
+      213: -385312603826986785
+    second: Enemy_Bazooka_59
+  - first:
+      213: -5532078784981039237
+    second: Enemy_Bazooka_60
+  - first:
+      213: 3766972338182155454
+    second: Enemy_Bazooka_61
+  - first:
+      213: 4757456973279219323
+    second: Enemy_Bazooka_62
+  - first:
+      213: -2813154748425562793
+    second: Enemy_Bazooka_63
+  - first:
+      213: -2664807004319175494
+    second: Enemy_Bazooka_64
+  - first:
+      213: -8272852759602680753
+    second: Enemy_Bazooka_65
+  - first:
+      213: 4288637218902639834
+    second: Enemy_Bazooka_66
+  - first:
+      213: 855625262657047937
+    second: Enemy_Bazooka_67
+  - first:
+      213: 3983260104113436072
+    second: Enemy_Bazooka_68
+  - first:
+      213: 5758911194790759353
+    second: Enemy_Bazooka_69
+  - first:
+      213: 4080775708692270667
+    second: Enemy_Bazooka_70
+  - first:
+      213: 2614325452921255812
+    second: Enemy_Bazooka_71
+  - first:
+      213: -4472370931349473333
+    second: Enemy_Bazooka_72
+  - first:
+      213: -3690805585317641316
+    second: Enemy_Bazooka_73
+  - first:
+      213: -3888133012992883340
+    second: Enemy_Bazooka_74
+  - first:
+      213: 7763107130240367246
+    second: Enemy_Bazooka_75
+  - first:
+      213: 7502752337387777210
+    second: Enemy_Bazooka_76
+  - first:
+      213: 3649494997435794368
+    second: Enemy_Bazooka_77
+  - first:
+      213: -463204172868339979
+    second: Enemy_Bazooka_78
+  - first:
+      213: -3431192417130256565
+    second: Enemy_Bazooka_79
+  - first:
+      213: -8563423568366944765
+    second: Enemy_Bazooka_80
+  - first:
+      213: 1949247629580979196
+    second: Enemy_Bazooka_81
+  - first:
+      213: -3963483064085870403
+    second: Enemy_Bazooka_82
+  - first:
+      213: 1842085836257879348
+    second: Enemy_Bazooka_83
+  - first:
+      213: -8532695528236014564
+    second: Enemy_Bazooka_84
+  - first:
+      213: 516344164188775450
+    second: Enemy_Bazooka_85
+  - first:
+      213: -2293132840033239864
+    second: Enemy_Bazooka_86
+  - first:
+      213: -129947710832246843
+    second: Enemy_Bazooka_87
+  - first:
+      213: 1902549962454382024
+    second: Enemy_Bazooka_88
+  - first:
+      213: 3444450873066790635
+    second: Enemy_Bazooka_89
+  - first:
+      213: 3095117550627963925
+    second: Enemy_Bazooka_90
+  - first:
+      213: 4466672867844425541
+    second: Enemy_Bazooka_91
+  - first:
+      213: -1576954277421563602
+    second: Enemy_Bazooka_92
+  - first:
+      213: 6216225235056297207
+    second: Enemy_Bazooka_93
+  - first:
+      213: -3476929328929092845
+    second: Enemy_Bazooka_94
+  - first:
+      213: 8449664213544356146
+    second: Enemy_Bazooka_95
+  - first:
+      213: 1901453823462828666
+    second: Enemy_Bazooka_96
+  - first:
+      213: 2005854110137164026
+    second: Enemy_Bazooka_97
+  - first:
+      213: -5996741927266475029
+    second: Enemy_Bazooka_98
+  - first:
+      213: -6739665122028214331
+    second: Enemy_Bazooka_99
+  - first:
+      213: -6173784270743799109
+    second: Enemy_Bazooka_100
+  - first:
+      213: -4855234751056942000
+    second: Enemy_Bazooka_101
+  - first:
+      213: -5505265776277637439
+    second: Enemy_Bazooka_102
+  - first:
+      213: 1064563257047496729
+    second: Enemy_Bazooka_103
+  - first:
+      213: 3856921025622678233
+    second: Enemy_Bazooka_104
+  - first:
+      213: -1023043141913057712
+    second: Enemy_Bazooka_105
+  - first:
+      213: 1225991816809428984
+    second: Enemy_Bazooka_106
+  - first:
+      213: 294660222289681741
+    second: Enemy_Bazooka_107
+  - first:
+      213: -2813521247596409274
+    second: Enemy_Bazooka_108
+  - first:
+      213: -263630527619640097
+    second: Enemy_Bazooka_109
+  - first:
+      213: 879528566427979540
+    second: Enemy_Bazooka_110
+  - first:
+      213: 4354583779258145666
+    second: Enemy_Bazooka_111
+  - first:
+      213: -63603817116886432
+    second: Enemy_Bazooka_112
+  - first:
+      213: 4165810067768599246
+    second: Enemy_Bazooka_113
+  - first:
+      213: -53665815452418320
+    second: Enemy_Bazooka_114
+  - first:
+      213: -2635370857417786257
+    second: Enemy_Bazooka_115
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Bazooka_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 719
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3eb4ea278e5244e84b778ec1986041
+      internalID: -8409704241941468012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 719
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b905c4ba2e68429b0cea2b4c9d6c7
+      internalID: 8696466624304207783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 719
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa5aeff34e05144f882542dd242ba05
+      internalID: -682174285798974315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 719
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d28d27cc5cd8a4facf496fe2fedb38
+      internalID: -6160631029963240501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 719
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92fc41897c51364783e70a2302269c0
+      internalID: -238570776019386700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 719
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2aee1f71e7cf4f87fc3d6a8dbb3e4
+      internalID: 2422629364721557176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 673
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ed62df128e58429b9a03c542263b3
+      internalID: 2407918752653453649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 673
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b86d0364cefb46b8d92a43ef291fd
+      internalID: -1929017262208929971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 674
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f600f76a1940764fac275d9f29d9e5f
+      internalID: -2180301572331444997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 674
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423ac3a7d6c2c447bdcdb304940ff6f
+      internalID: 9016638572495373692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 673
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc74c32fe6a1c91419064118f6111af1
+      internalID: 5692359755109892493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 673
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceca1233fa961a34db2040587c62c93b
+      internalID: 90038540778638256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 673
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0567c01628a66c49952956975926e1b
+      internalID: 3479957677485334227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 673
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9c54016ab8b542937cfc473ce7ab4
+      internalID: -6609973056877624420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 674
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ea5b1b0020ff488f3b695d0eef5ac
+      internalID: -5943005940341846533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 674
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee809337ca20dd409298426cac108b3
+      internalID: -4866518809547374731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 673
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688977f9ecc1c1a439c421830f73800c
+      internalID: -5651387170931313087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 625
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178dc27558371b1439a0fa44aa11839c
+      internalID: -1646012886483083289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 625
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61c259f03a3344f87a004dadcf13b9
+      internalID: -3929623540127020631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 625
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cd2152dc5be74408bd7781bfbf6200
+      internalID: -2043721591381290129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 625
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cafa6c35460d6b4ba3f7f11d786e494
+      internalID: 8543434868194106878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 625
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a85bb7d048934ca261cc41c5c9670
+      internalID: 1573316213607315128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 575
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8794d525471a544bc738065c056054
+      internalID: -6023406242467856782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 575
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a06fc99e783db4e9b14b52b3b1a77c
+      internalID: -8597203801951181930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 575
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6089e125ca12499c36d44a4d76241
+      internalID: -6335437699017273857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 575
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920b6371c16a614a9a25382c495ca6a
+      internalID: 6600689918809718699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 575
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481ffde73e6a51c43852fea1c73dd429
+      internalID: -5146947207103199226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304826029f11984c869ec69f24f3f13
+      internalID: 2012261556492942743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 529
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eb2dba36f30074b99a376a10e08ace
+      internalID: 4020703671328229696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 529
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd8658aa4bf307408d52d006fa39dcb
+      internalID: -6505926801941192333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 529
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f298cc895c2f8d54f94c19314f2fe1c1
+      internalID: -5421146102607558560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 531
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fcc95c7c29f6741835f700399db261
+      internalID: -7500232312355141978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 534
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a76350e8013aeb4aacadd2189bb5d78
+      internalID: -7631393246143407232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 535
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d8c15d7e4946544ad5468ea2ceda27
+      internalID: -3555271125318884609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 529
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76deafc25dae741408fb2f9877b1d50e
+      internalID: -2166031856865370209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 529
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eff1b80a2bce64bbc290c0210c3959
+      internalID: 1366444276900169115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 482
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126bdf1a07646d74c89b5d8b776416d6
+      internalID: 7268616391314108804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 482
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23381d7274ffb68469595c39ed8cbb73
+      internalID: 791847957894622016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 482
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cc06d3cc19abd4db90b2445cd47ea1
+      internalID: -7085143295200452246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 421
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37882953cfe8d4dbea28b2c7857f03
+      internalID: -1358714709504029485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 421
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a77010fb883ed5479ebcd013b741302
+      internalID: 1961939303334097369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 421
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc261c1fb7ae4a34f83a1922b5502bb7
+      internalID: 6839924359515757169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 421
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f47a5086de5b40990609889fc52dd
+      internalID: 1655435273746179664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 421
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986baf0e2af6d08439f54f8b775bfa49
+      internalID: -1628209697215822240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 421
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67249eb0cd5955b4290b78e207718768
+      internalID: 6669982667285527712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 421
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd196b7d1e96af4ebc5b87ca68ade3f
+      internalID: -7717349165481487233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 421
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff94dfabeb5c04cacb25cb8f2cfd99
+      internalID: -8907293131546399062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 421
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c068c33a9f33004696a2819085892b8
+      internalID: 4067647986310516225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 421
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a76f22a2d95254b9c526354aaf15db
+      internalID: -7070900211149653921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_49
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 421
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fcdc9f4990bdc40a6f62c666142582
+      internalID: -404434725411178630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 375
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84099ee80bd09468ae58ad6ac49473
+      internalID: -7091482495965162558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 375
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0139d9ac054d34f9f3430d5b32cf86
+      internalID: -3781848122049681555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 375
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998defdb89061d348a27d226fbe1272b
+      internalID: -8719949234564609873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 321
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48516c1ee5482fb41b43c165f028ddc3
+      internalID: -2485345565103576639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 321
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccbbdc2db598464088bb4005ea76207
+      internalID: 7616458273998183861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 321
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea3043667959a418acf4b84b327cf8
+      internalID: -587842206072037119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156332bdbd1be04dae91ed7fa7c2672
+      internalID: 5757493233055185606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 321
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de63f966dfc27f04680c24fca452ccbf
+      internalID: -351351206617734852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 321
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe44054925b40546b717e78748e3568
+      internalID: 4271434795631194398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_59
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 321
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7fe681333cc74eb630ad50cd93bfc
+      internalID: -385312603826986785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 321
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e04d59b712f4e49aa5cfcd60b3fd04
+      internalID: -5532078784981039237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_61
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 321
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cead0de16950641b6ed6927a6e8db2
+      internalID: 3766972338182155454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 277
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a7f4207ad86e428236c70a8d2861d
+      internalID: 4757456973279219323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_63
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 277
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7be88d825868a4b94472b36e0f40ac
+      internalID: -2813154748425562793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_64
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 277
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bc21e754afd754da110854ba50ac17
+      internalID: -2664807004319175494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 277
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49091ce08bd094cb4da760cdc79086
+      internalID: -8272852759602680753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 277
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c9ce8aad6b1f945b33c8cc65535caa
+      internalID: 4288637218902639834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 277
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcfdfdb6ad68a7409c41327e7e2dfc5
+      internalID: 855625262657047937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 277
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2541690c15bb42b43a7a6078a9751e53
+      internalID: 3983260104113436072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 277
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f16ae12122354d8f8d294d9ace8d8
+      internalID: 5758911194790759353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 231
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d86327e42efee4fbdb06f0a26548a8
+      internalID: 4080775708692270667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_71
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f96254b67f8c4b87d535edad1ba64
+      internalID: 2614325452921255812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 232
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d53a88e7c51341b5d6becc9a7f17d
+      internalID: -4472370931349473333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 242
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0118aa90def13154494f29282fbb2b69
+      internalID: -3690805585317641316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_74
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 242
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554c06754398b474bbc27cfd337d6ba9
+      internalID: -3888133012992883340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 240
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29691b9ef7bbfc4c9ab6818669b24c3
+      internalID: 7763107130240367246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_76
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 237
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a7cda49e8276d4bbcf715dc01316d8
+      internalID: 7502752337387777210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_77
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 231
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709dcb7aae211a94b9c93db1155ed574
+      internalID: 3649494997435794368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 202
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282615d2e39eea41896fa489a958479
+      internalID: -463204172868339979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 202
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4c7fae1289bcb44af9b0890b353ee0
+      internalID: -3431192417130256565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3801456efc9b49bd5022e530dc000
+      internalID: -8563423568366944765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 202
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464b62047648c342b1ee4ccd4b6d36d
+      internalID: 1949247629580979196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 202
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a52aeb89645c374aba5840000b38522
+      internalID: -3963483064085870403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 202
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a44ba2611a314d91ed58f89ae0afa
+      internalID: 1842085836257879348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 158
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f088a2a5c4736e045a985987e327a34b
+      internalID: -8532695528236014564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 158
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a366f7a1e0081b740b4840a5c14d6ad0
+      internalID: 516344164188775450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 158
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09b06f9c9215a46843766d2c28df87
+      internalID: -2293132840033239864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 158
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6496136d45961429f5f664f958970c
+      internalID: -129947710832246843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_88
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 158
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b28e94ad4ef40438a95d9061d859d8
+      internalID: 1902549962454382024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbac7290bc220b4bab77d0034d3cb9d
+      internalID: 3444450873066790635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 114
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad60f45c2b7bf4ea128fa4e93b76ad
+      internalID: 3095117550627963925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 114
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cdec6cb934ac347af0239b227a03d9
+      internalID: 4466672867844425541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_92
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ee1847e6b8b2048859fd8c990b443b
+      internalID: -1576954277421563602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 114
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3880e103bde9534f9d90f39378b36d3
+      internalID: 6216225235056297207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_94
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60acbac23864ade4dae615e91015f218
+      internalID: -3476929328929092845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_95
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 114
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdfe065ef654a541b0a1ab2f6d36f48
+      internalID: 8449664213544356146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_96
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739f0d267e5663408cc3e4a87602954
+      internalID: 1901453823462828666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_97
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 114
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133cf0df97e7e644ea608be3dd2c237d
+      internalID: 2005854110137164026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_98
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 114
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cae5af45d573041bf67f5336e315a4
+      internalID: -5996741927266475029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d22743f28c9064f811681dc86cf951
+      internalID: -6739665122028214331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a553a2d5abd27b4691008bb0abc7605
+      internalID: -6173784270743799109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 60
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447932e000014449b48b70657d8d1cb
+      internalID: -4855234751056942000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_102
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 60
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ebe366883b474cbaff1dd387da3f6
+      internalID: -5505265776277637439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_103
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 61
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a553443e4f5948872c5ee10f03c99
+      internalID: 1064563257047496729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_104
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f53fe1e93162b4384c5b616bbefa3d
+      internalID: 3856921025622678233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_105
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 59
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d7ff7161746b8458b97e4851b8d842
+      internalID: -1023043141913057712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_106
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 194
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574b0792fa918c4d8ba6ad24904fd22
+      internalID: 1225991816809428984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_107
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 58
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dcfc907ded647408dffdb4a57417c7
+      internalID: 294660222289681741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_108
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 59
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8298ca219ad5643a446dc56544d98a
+      internalID: -2813521247596409274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_109
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 57
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743b4fd7c47d27842b5ed33dc4bb0bd5
+      internalID: -263630527619640097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05116e76f1a8cd74fbf41e4097e8a998
+      internalID: 879528566427979540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_111
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497aabf8b135ce4ba3f885c26bf0e32
+      internalID: 4354583779258145666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_112
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6994d597019345a0b403ff5f80835
+      internalID: -63603817116886432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e465189a35d62b45a85ce72d8f92b09
+      internalID: 4165810067768599246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_114
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016aacfddca95b8448b68f9152c73ad4
+      internalID: -53665815452418320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bazooka_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9368dbf7e63564986d870fd2edb7e0
+      internalID: -2635370857417786257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

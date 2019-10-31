@@ -1,0 +1,5431 @@
+fileFormatVersion: 2
+guid: ea49b322e0a088d4085c04ae2a6420d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4227386216234473944
+    second: JaneFireStorm-3_0
+  - first:
+      213: 3777939908061806682
+    second: JaneFireStorm-3_1
+  - first:
+      213: -6449388978160279040
+    second: JaneFireStorm-3_2
+  - first:
+      213: -4360098690690538181
+    second: JaneFireStorm-3_3
+  - first:
+      213: 2262362589957679304
+    second: JaneFireStorm-3_4
+  - first:
+      213: -790162257645115158
+    second: JaneFireStorm-3_5
+  - first:
+      213: -3516408744175966823
+    second: JaneFireStorm-3_6
+  - first:
+      213: 3734245328180987239
+    second: JaneFireStorm-3_7
+  - first:
+      213: -7812548610150066533
+    second: JaneFireStorm-3_8
+  - first:
+      213: 3072563950701739518
+    second: JaneFireStorm-3_9
+  - first:
+      213: 6202261371617399993
+    second: JaneFireStorm-3_10
+  - first:
+      213: -2734325763762708608
+    second: JaneFireStorm-3_11
+  - first:
+      213: 4680971743315206351
+    second: JaneFireStorm-3_12
+  - first:
+      213: -1860162807535650994
+    second: JaneFireStorm-3_13
+  - first:
+      213: -7888496209715729104
+    second: JaneFireStorm-3_14
+  - first:
+      213: -7408683262918581832
+    second: JaneFireStorm-3_15
+  - first:
+      213: -2292104314344340698
+    second: JaneFireStorm-3_16
+  - first:
+      213: -7459480387651633754
+    second: JaneFireStorm-3_17
+  - first:
+      213: 599107657147479877
+    second: JaneFireStorm-3_18
+  - first:
+      213: -8785066156674245219
+    second: JaneFireStorm-3_19
+  - first:
+      213: 8931512753622579735
+    second: JaneFireStorm-3_20
+  - first:
+      213: 8688243135673817260
+    second: JaneFireStorm-3_21
+  - first:
+      213: -4642408435252710867
+    second: JaneFireStorm-3_22
+  - first:
+      213: -2366264945192788562
+    second: JaneFireStorm-3_23
+  - first:
+      213: -6469424251568474375
+    second: JaneFireStorm-3_24
+  - first:
+      213: -749597152508171830
+    second: JaneFireStorm-3_25
+  - first:
+      213: 1046787391337314927
+    second: JaneFireStorm-3_26
+  - first:
+      213: -8502281936279357822
+    second: JaneFireStorm-3_27
+  - first:
+      213: -3877216810226334334
+    second: JaneFireStorm-3_28
+  - first:
+      213: -1146038236578864756
+    second: JaneFireStorm-3_29
+  - first:
+      213: -3081050272692456692
+    second: JaneFireStorm-3_30
+  - first:
+      213: 7424899496823883229
+    second: JaneFireStorm-3_31
+  - first:
+      213: -3649265196820590389
+    second: JaneFireStorm-3_32
+  - first:
+      213: -1397321420612783046
+    second: JaneFireStorm-3_33
+  - first:
+      213: -7505852109091210582
+    second: JaneFireStorm-3_34
+  - first:
+      213: 4273648013673048354
+    second: JaneFireStorm-3_35
+  - first:
+      213: -1364487106360364151
+    second: JaneFireStorm-3_36
+  - first:
+      213: 3470576814506043714
+    second: JaneFireStorm-3_37
+  - first:
+      213: 5255788763646386711
+    second: JaneFireStorm-3_38
+  - first:
+      213: -5352611096292380013
+    second: JaneFireStorm-3_39
+  - first:
+      213: 6364732613677369963
+    second: JaneFireStorm-3_40
+  - first:
+      213: -2504908017154714240
+    second: JaneFireStorm-3_41
+  - first:
+      213: -3162599793315763631
+    second: JaneFireStorm-3_42
+  - first:
+      213: -1978314990200969310
+    second: JaneFireStorm-3_43
+  - first:
+      213: 5100895198031812740
+    second: JaneFireStorm-3_44
+  - first:
+      213: -8436186331997075807
+    second: JaneFireStorm-3_45
+  - first:
+      213: 6446098249388859146
+    second: JaneFireStorm-3_46
+  - first:
+      213: -7946335878587858721
+    second: JaneFireStorm-3_47
+  - first:
+      213: -6298549992902926945
+    second: JaneFireStorm-3_48
+  - first:
+      213: 5167031472404463967
+    second: JaneFireStorm-3_49
+  - first:
+      213: -1215761843180724041
+    second: JaneFireStorm-3_50
+  - first:
+      213: -2301039331911753688
+    second: JaneFireStorm-3_51
+  - first:
+      213: 3817211975517460057
+    second: JaneFireStorm-3_52
+  - first:
+      213: -8529662525321506866
+    second: JaneFireStorm-3_53
+  - first:
+      213: -1792519921946884151
+    second: JaneFireStorm-3_54
+  - first:
+      213: -5830383955622390184
+    second: JaneFireStorm-3_55
+  - first:
+      213: -4665568182381634779
+    second: JaneFireStorm-3_56
+  - first:
+      213: 175153900867522832
+    second: JaneFireStorm-3_57
+  - first:
+      213: -4597106364518409170
+    second: JaneFireStorm-3_58
+  - first:
+      213: -1643525001057992256
+    second: JaneFireStorm-3_59
+  - first:
+      213: -8120534128359184014
+    second: JaneFireStorm-3_60
+  - first:
+      213: 1458174147057168704
+    second: JaneFireStorm-3_61
+  - first:
+      213: 1797992659489076902
+    second: JaneFireStorm-3_62
+  - first:
+      213: -688428766027433651
+    second: JaneFireStorm-3_63
+  - first:
+      213: 7348385190643248103
+    second: JaneFireStorm-3_64
+  - first:
+      213: -4070257688095174638
+    second: JaneFireStorm-3_65
+  - first:
+      213: 161681397583629783
+    second: JaneFireStorm-3_66
+  - first:
+      213: -6335675597787278847
+    second: JaneFireStorm-3_67
+  - first:
+      213: -1277888409410573286
+    second: JaneFireStorm-3_68
+  - first:
+      213: -3903555760737419108
+    second: JaneFireStorm-3_69
+  - first:
+      213: -4027952327262727534
+    second: JaneFireStorm-3_70
+  - first:
+      213: 6540531597137980709
+    second: JaneFireStorm-3_71
+  - first:
+      213: 2032958824575939010
+    second: JaneFireStorm-3_72
+  - first:
+      213: -3964261273432142987
+    second: JaneFireStorm-3_73
+  - first:
+      213: 792003077820446412
+    second: JaneFireStorm-3_74
+  - first:
+      213: 4412414073349888406
+    second: JaneFireStorm-3_75
+  - first:
+      213: -7865876258978157879
+    second: JaneFireStorm-3_76
+  - first:
+      213: -8843119652724341514
+    second: JaneFireStorm-3_77
+  - first:
+      213: -3575736389464877096
+    second: JaneFireStorm-3_78
+  - first:
+      213: -1193116022042485253
+    second: JaneFireStorm-3_79
+  - first:
+      213: 8474152889161080667
+    second: JaneFireStorm-3_80
+  - first:
+      213: -7728517991532328421
+    second: JaneFireStorm-3_81
+  - first:
+      213: -1926120434722941825
+    second: JaneFireStorm-3_82
+  - first:
+      213: 5643131930210922199
+    second: JaneFireStorm-3_83
+  - first:
+      213: -8702133651109953973
+    second: JaneFireStorm-3_84
+  - first:
+      213: 8523386035629332570
+    second: JaneFireStorm-3_85
+  - first:
+      213: 4914972314642127120
+    second: JaneFireStorm-3_86
+  - first:
+      213: -1888249211491498609
+    second: JaneFireStorm-3_87
+  - first:
+      213: -5654720746501936203
+    second: JaneFireStorm-3_88
+  - first:
+      213: 1241033464021803190
+    second: JaneFireStorm-3_89
+  - first:
+      213: 288404477213483027
+    second: JaneFireStorm-3_90
+  - first:
+      213: 4264339270552357081
+    second: JaneFireStorm-3_91
+  - first:
+      213: -1696279321016827477
+    second: JaneFireStorm-3_92
+  - first:
+      213: -8964344438139839599
+    second: JaneFireStorm-3_93
+  - first:
+      213: 1046067430626478620
+    second: JaneFireStorm-3_94
+  - first:
+      213: 4184168883877640990
+    second: JaneFireStorm-3_95
+  - first:
+      213: -1833656360859726180
+    second: JaneFireStorm-3_96
+  - first:
+      213: -4211955504762941783
+    second: JaneFireStorm-3_97
+  - first:
+      213: -6793606820414965924
+    second: JaneFireStorm-3_98
+  - first:
+      213: -2423496017218638581
+    second: JaneFireStorm-3_99
+  - first:
+      213: 1712515186718808409
+    second: JaneFireStorm-3_100
+  - first:
+      213: 5141006538616697012
+    second: JaneFireStorm-3_101
+  - first:
+      213: 1146121748608973400
+    second: JaneFireStorm-3_102
+  - first:
+      213: 8235391554397545924
+    second: JaneFireStorm-3_103
+  - first:
+      213: -8275284995090765694
+    second: JaneFireStorm-3_104
+  - first:
+      213: 3720632366739723766
+    second: JaneFireStorm-3_105
+  - first:
+      213: -6231390319414550328
+    second: JaneFireStorm-3_106
+  - first:
+      213: 52060700282420888
+    second: JaneFireStorm-3_107
+  - first:
+      213: 855309993940872261
+    second: JaneFireStorm-3_108
+  - first:
+      213: 4013261703676230210
+    second: JaneFireStorm-3_109
+  - first:
+      213: -5792484605581215312
+    second: JaneFireStorm-3_110
+  - first:
+      213: -317242116565470287
+    second: JaneFireStorm-3_111
+  - first:
+      213: -2274016559462403863
+    second: JaneFireStorm-3_112
+  - first:
+      213: -8067665870582614013
+    second: JaneFireStorm-3_113
+  - first:
+      213: 2003696195457380353
+    second: JaneFireStorm-3_114
+  - first:
+      213: 24117588926124460
+    second: JaneFireStorm-3_115
+  - first:
+      213: 3979897369886767348
+    second: JaneFireStorm-3_116
+  - first:
+      213: 2890294485190040991
+    second: JaneFireStorm-3_117
+  - first:
+      213: 3389935268216909919
+    second: JaneFireStorm-3_118
+  - first:
+      213: 1621192153707476395
+    second: JaneFireStorm-3_119
+  - first:
+      213: 3717384483322203593
+    second: JaneFireStorm-3_120
+  - first:
+      213: -3602087820094978876
+    second: JaneFireStorm-3_121
+  - first:
+      213: 1928744330762167920
+    second: JaneFireStorm-3_122
+  - first:
+      213: 1308841789555028561
+    second: JaneFireStorm-3_123
+  - first:
+      213: -3120697912151551346
+    second: JaneFireStorm-3_124
+  - first:
+      213: 6034735139824663754
+    second: JaneFireStorm-3_125
+  - first:
+      213: 7676560025756871972
+    second: JaneFireStorm-3_126
+  - first:
+      213: 3955186670310438560
+    second: JaneFireStorm-3_127
+  - first:
+      213: 3061731541113217478
+    second: JaneFireStorm-3_128
+  - first:
+      213: 884291486329058008
+    second: JaneFireStorm-3_129
+  - first:
+      213: -8604552145211939412
+    second: JaneFireStorm-3_130
+  - first:
+      213: -145788787311503127
+    second: JaneFireStorm-3_131
+  - first:
+      213: 625053359012492679
+    second: JaneFireStorm-3_132
+  - first:
+      213: -8884778806946761712
+    second: JaneFireStorm-3_133
+  - first:
+      213: 2775074661893105489
+    second: JaneFireStorm-3_134
+  - first:
+      213: -8470089621209356317
+    second: JaneFireStorm-3_135
+  - first:
+      213: -332398273681809428
+    second: JaneFireStorm-3_136
+  - first:
+      213: 386504570411703200
+    second: JaneFireStorm-3_137
+  - first:
+      213: -7088671443938171325
+    second: JaneFireStorm-3_138
+  - first:
+      213: -204535802150305207
+    second: JaneFireStorm-3_139
+  - first:
+      213: 7218067547497485014
+    second: JaneFireStorm-3_140
+  - first:
+      213: -6043782303290418071
+    second: JaneFireStorm-3_141
+  - first:
+      213: -5799265414423424766
+    second: JaneFireStorm-3_142
+  - first:
+      213: -6073651681252576770
+    second: JaneFireStorm-3_143
+  - first:
+      213: -4809728215355546154
+    second: JaneFireStorm-3_144
+  - first:
+      213: -4051261650206051619
+    second: JaneFireStorm-3_145
+  - first:
+      213: 3362056365546962103
+    second: JaneFireStorm-3_146
+  - first:
+      213: -599943150026456996
+    second: JaneFireStorm-3_147
+  - first:
+      213: 1755759988873778821
+    second: JaneFireStorm-3_148
+  - first:
+      213: -7173107870365899822
+    second: JaneFireStorm-3_149
+  - first:
+      213: -5661446398259279546
+    second: JaneFireStorm-3_150
+  - first:
+      213: -4331513255901680584
+    second: JaneFireStorm-3_151
+  - first:
+      213: -1920183529780339045
+    second: JaneFireStorm-3_152
+  - first:
+      213: 670247392077546460
+    second: JaneFireStorm-3_153
+  - first:
+      213: 4748351396855061975
+    second: JaneFireStorm-3_154
+  - first:
+      213: 4978608143032575403
+    second: JaneFireStorm-3_155
+  - first:
+      213: -6478282406741920380
+    second: JaneFireStorm-3_156
+  - first:
+      213: -7797898195314320938
+    second: JaneFireStorm-3_157
+  - first:
+      213: -2101626928598004489
+    second: JaneFireStorm-3_158
+  - first:
+      213: 6981158669021575145
+    second: JaneFireStorm-3_159
+  - first:
+      213: 5188952755629153874
+    second: JaneFireStorm-3_160
+  - first:
+      213: -1640279162547807814
+    second: JaneFireStorm-3_161
+  - first:
+      213: 1080893513688589288
+    second: JaneFireStorm-3_162
+  - first:
+      213: -2238146939462078426
+    second: JaneFireStorm-3_163
+  - first:
+      213: 2825976022080667433
+    second: JaneFireStorm-3_164
+  - first:
+      213: -8195265667446602642
+    second: JaneFireStorm-3_165
+  - first:
+      213: -869443974522771897
+    second: JaneFireStorm-3_166
+  - first:
+      213: -2410964091955850835
+    second: JaneFireStorm-3_167
+  - first:
+      213: 7478715922671143218
+    second: JaneFireStorm-3_168
+  - first:
+      213: -8969231859724043588
+    second: JaneFireStorm-3_169
+  - first:
+      213: 817808957871839042
+    second: JaneFireStorm-3_170
+  - first:
+      213: -7228407480658616125
+    second: JaneFireStorm-3_171
+  - first:
+      213: 3943799310676570801
+    second: JaneFireStorm-3_172
+  - first:
+      213: 6049236885893510157
+    second: JaneFireStorm-3_173
+  - first:
+      213: 6730588942409613720
+    second: JaneFireStorm-3_174
+  - first:
+      213: -7683302671439704599
+    second: JaneFireStorm-3_175
+  - first:
+      213: 1876531936687273441
+    second: JaneFireStorm-3_176
+  - first:
+      213: -8844263350669257899
+    second: JaneFireStorm-3_177
+  - first:
+      213: -7719675609647554346
+    second: JaneFireStorm-3_178
+  - first:
+      213: -8414021577874497794
+    second: JaneFireStorm-3_179
+  - first:
+      213: 5094228191253543325
+    second: JaneFireStorm-3_180
+  - first:
+      213: 2928771199457577315
+    second: JaneFireStorm-3_181
+  - first:
+      213: 6256904069104325045
+    second: JaneFireStorm-3_182
+  - first:
+      213: -9165777440059556883
+    second: JaneFireStorm-3_183
+  - first:
+      213: -8306573517048481789
+    second: JaneFireStorm-3_184
+  - first:
+      213: -1735246503815820956
+    second: JaneFireStorm-3_185
+  - first:
+      213: 6576864671438663684
+    second: JaneFireStorm-3_186
+  - first:
+      213: -3066679289591627498
+    second: JaneFireStorm-3_187
+  - first:
+      213: 7239317917680598886
+    second: JaneFireStorm-3_188
+  - first:
+      213: 6649405092110456473
+    second: JaneFireStorm-3_189
+  - first:
+      213: 3265696339515128691
+    second: JaneFireStorm-3_190
+  - first:
+      213: 9059406798991938450
+    second: JaneFireStorm-3_191
+  - first:
+      213: 260483683269290650
+    second: JaneFireStorm-3_192
+  - first:
+      213: -4676502890859771347
+    second: JaneFireStorm-3_193
+  - first:
+      213: -3487254570881361614
+    second: JaneFireStorm-3_194
+  - first:
+      213: -596346768485372775
+    second: JaneFireStorm-3_195
+  - first:
+      213: 2166543046177284246
+    second: JaneFireStorm-3_196
+  - first:
+      213: -668450623187745601
+    second: JaneFireStorm-3_197
+  - first:
+      213: 82784420196698966
+    second: JaneFireStorm-3_198
+  - first:
+      213: -4637154908821141202
+    second: JaneFireStorm-3_199
+  - first:
+      213: 4902918865409806042
+    second: JaneFireStorm-3_200
+  - first:
+      213: -20361982290645148
+    second: JaneFireStorm-3_201
+  - first:
+      213: 8387724246566830406
+    second: JaneFireStorm-3_202
+  - first:
+      213: -7160372784236472949
+    second: JaneFireStorm-3_203
+  - first:
+      213: -5998474943386563006
+    second: JaneFireStorm-3_204
+  - first:
+      213: 5153644059988002729
+    second: JaneFireStorm-3_205
+  - first:
+      213: -8662846251547074790
+    second: JaneFireStorm-3_206
+  - first:
+      213: 7363946309571104723
+    second: JaneFireStorm-3_207
+  - first:
+      213: 6348573779135834428
+    second: JaneFireStorm-3_208
+  - first:
+      213: 528918995615176014
+    second: JaneFireStorm-3_209
+  - first:
+      213: -5692334125086582666
+    second: JaneFireStorm-3_210
+  - first:
+      213: 5826310850233056652
+    second: JaneFireStorm-3_211
+  - first:
+      213: 3147131686140266355
+    second: JaneFireStorm-3_212
+  - first:
+      213: -5626943179938752513
+    second: JaneFireStorm-3_213
+  - first:
+      213: 506599637465320751
+    second: JaneFireStorm-3_214
+  - first:
+      213: 4205562541665851753
+    second: JaneFireStorm-3_215
+  - first:
+      213: -5042445205077314255
+    second: JaneFireStorm-3_216
+  - first:
+      213: 3324726432973054714
+    second: JaneFireStorm-3_217
+  - first:
+      213: 4591952734716764729
+    second: JaneFireStorm-3_218
+  - first:
+      213: -1795971140676337670
+    second: JaneFireStorm-3_219
+  - first:
+      213: 7392380076510724520
+    second: JaneFireStorm-3_220
+  - first:
+      213: 2054517802977229118
+    second: JaneFireStorm-3_221
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JaneFireStorm-3_0
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 367
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73afc17688d3be64e8f49fa21ab9273d
+      internalID: -4227386216234473944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 367
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec3bbf73e974224ca2d12d990669959
+      internalID: 3777939908061806682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 367
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9595d53432be0fd468da5e44bc9c3f7e
+      internalID: -6449388978160279040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 367
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913846dbf27b42a45aacecff4a495a00
+      internalID: -4360098690690538181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 367
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550103697f455294c811006e510d4c24
+      internalID: 2262362589957679304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 403
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98212e26defaa6743aedb7b90627ccd7
+      internalID: -790162257645115158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 367
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f578602e5e9d243becee8ae6cf3137
+      internalID: -3516408744175966823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 402
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f6aeab3adb5046889bbf30bffcfd5
+      internalID: 3734245328180987239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 367
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5be5c96927816479c92fc4a6675d46
+      internalID: -7812548610150066533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 401
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770863d687d5ad940ad6d11e1f5c516f
+      internalID: 3072563950701739518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 401
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a5cd2e80bd87429862ab708bf6488
+      internalID: 6202261371617399993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 400
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281bd46af111494581153e7f878b154
+      internalID: -2734325763762708608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_12
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 398
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d7b2d10622324baefd78a135d154e
+      internalID: 4680971743315206351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_13
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 395
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af306e95eb75f41aa0c83796f12435
+      internalID: -1860162807535650994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 367
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17866350df728d34abf92fb0b35a0778
+      internalID: -7888496209715729104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 367
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a440481eed7da44bddbdc2867951d1
+      internalID: -7408683262918581832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 367
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7e7bb19256ee4fb2078540b65a6a8
+      internalID: -2292104314344340698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 367
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f13e3f61545147af0b0ada574b117
+      internalID: -7459480387651633754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 367
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede4bd9463d0774997fb48959173d88
+      internalID: 599107657147479877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 367
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f10187eea5f7341ba7a56d2df58cf9
+      internalID: -8785066156674245219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_20
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 367
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011fe687fd4871a468303857248f4549
+      internalID: 8931512753622579735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_21
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 367
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b88450e607eae54fb97855f87f2de8b
+      internalID: 8688243135673817260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 389
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa8a7593c9eaaf4e9be31837de521e4
+      internalID: -4642408435252710867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 367
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002484702c39f740b488028e3c0f3d0
+      internalID: -2366264945192788562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 383
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf67e8ff7942ea84f9ba9fb48e28bc9b
+      internalID: -6469424251568474375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_25
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 378
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef572b6306ff8746ab8a2f07e81c8d6
+      internalID: -749597152508171830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_26
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 367
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea097823b912ed544b85611af00df416
+      internalID: 1046787391337314927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_27
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 367
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4babf7c757161b148a7e82a7b8ab33cc
+      internalID: -8502281936279357822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 373
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f311283dadf5940aea4a88397a670b
+      internalID: -3877216810226334334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 367
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36b43bac375cc46af7427bbedd508a
+      internalID: -1146038236578864756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_30
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 367
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bb224f8e040b344a1b10bcf57e9cbd
+      internalID: -3081050272692456692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_31
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 367
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ed94586e41c24abf4dd6341cd2703
+      internalID: 7424899496823883229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 367
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cef6a19eda5a74bbc7800240ba59c7
+      internalID: -3649265196820590389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_33
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 367
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1935e9a0d58159045a0cee4138c0a64b
+      internalID: -1397321420612783046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_34
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 367
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fc2fbc84e90374c9ebf2dfb4406cc8
+      internalID: -7505852109091210582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 327
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780434a5d161b3d44bab3fdfaca38a57
+      internalID: 4273648013673048354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 327
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0a750f5d25d547b9fd78161236810
+      internalID: -1364487106360364151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 330
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0eca167cb7cb04ea252dedaf1d59c3
+      internalID: 3470576814506043714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 327
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a901c4f714f049b66f3d2813947b1
+      internalID: 5255788763646386711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 329
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf0c3e4b9f520445bd1b92969dd78e7
+      internalID: -5352611096292380013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_40
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 332
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25489e5afd7a7e746b64bc86b71c6223
+      internalID: 6364732613677369963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 331
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48292b4cf34f66488efc945fd65bbef
+      internalID: -2504908017154714240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_42
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 327
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f900ee8d6575249bf1416dc75c2d09
+      internalID: -3162599793315763631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 327
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed39ce678f0dc4ab7879cae263216e
+      internalID: -1978314990200969310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_44
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 327
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e4944cd9f090c439b079918b782a78
+      internalID: 5100895198031812740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 327
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc3be7d2221fb47951724e36407950
+      internalID: -8436186331997075807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_46
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 327
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5396bd93b554e4cbedb92c78d38f47
+      internalID: 6446098249388859146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_47
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 327
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f62f575abb7a19428fcefdd5171af0e
+      internalID: -7946335878587858721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_48
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 327
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e35adb66c80fc3409b4576cec7f1ea9
+      internalID: -6298549992902926945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_49
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 327
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eff05706e038b4f8f4235ff4bfc44a
+      internalID: 5167031472404463967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_50
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 327
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c068050c065ff3443a159b2125341bc6
+      internalID: -1215761843180724041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_51
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 327
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe1b3bf261ffb044b437a0dd6e8d02c
+      internalID: -2301039331911753688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_52
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 327
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6969f03b033734ba7df3ea53064020
+      internalID: 3817211975517460057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 281
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e864ba417cf774a9c12702c1c35b50
+      internalID: -8529662525321506866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 281
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054417f6b96c5fd49a586644943b5e51
+      internalID: -1792519921946884151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 281
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085cd80aecc54c44aa6501d2555bc3d
+      internalID: -5830383955622390184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 281
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e3c20cc1aa2144ebd12f3ce0e18f60
+      internalID: -4665568182381634779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 281
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24941499d6ee445960d73ce229c9f7
+      internalID: 175153900867522832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 281
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459d5a3c8b63e342b3a992f8353dc04
+      internalID: -4597106364518409170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 281
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff66abbe77b5d940aa47f06d56ddda8
+      internalID: -1643525001057992256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_60
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 281
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65174476506da114a974a939bdad1556
+      internalID: -8120534128359184014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_61
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 281
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b81e365390433428630a50791a07c0
+      internalID: 1458174147057168704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 281
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9bc288dd75aa144a0ca2acde14d58a
+      internalID: 1797992659489076902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 281
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d03aeeb8da0b64fad62304195bf452
+      internalID: -688428766027433651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_64
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 281
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c96f18e59988db46a78f1e1e8e9e8ec
+      internalID: 7348385190643248103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_65
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 281
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a66d4db6bc5748bed59dc573c818d
+      internalID: -4070257688095174638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_66
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 281
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed98bb5641bb74e4c95532e14c50a528
+      internalID: 161681397583629783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_67
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 281
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a399daeb71c6c864dad9f77cbd85c359
+      internalID: -6335675597787278847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_68
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 281
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51743c69cd48b2b43bf2f34aef5797eb
+      internalID: -1277888409410573286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_69
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 275
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e9bd02c7312e4bbe6343e017d9d0d
+      internalID: -3903555760737419108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_70
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 281
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ad37fd210b2c14e9b1b66634d07242
+      internalID: -4027952327262727534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_71
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 281
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc5a6665740e144baf0dbcf2140182
+      internalID: 6540531597137980709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_72
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 281
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55778674ea73e74c865e07f7e3c7220
+      internalID: 2032958824575939010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_73
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 281
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71713b2eb802044488a331fdc2d84b81
+      internalID: -3964261273432142987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_74
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 281
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc01a181beb2284db76496655cfc777
+      internalID: 792003077820446412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_75
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 281
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33de09be7304174583a6d198df7bf76
+      internalID: 4412414073349888406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 235
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60f293329dd964f92d3e7fe19a5cd7
+      internalID: -7865876258978157879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 235
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb30688ade8002458b1ae3dc9e18c6e
+      internalID: -8843119652724341514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_78
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 235
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ba09696735814aa4cf5e3d0dfc331
+      internalID: -3575736389464877096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_79
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 235
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15cfb741bb745043942129c5e20ca35
+      internalID: -1193116022042485253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_80
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 235
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b9f3b208e4fc4a88b82bf00507373
+      internalID: 8474152889161080667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_81
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 235
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633a7d8001184c4c99e81e23a509b6b
+      internalID: -7728517991532328421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_82
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 235
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965eab55bb73ef541b8708bcf58bf09f
+      internalID: -1926120434722941825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_83
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 235
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7bb3add2c593d4f9521c5836c8dfd0
+      internalID: 5643131930210922199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_84
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 235
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2c1d1c85161b40be5d97db51d8cad
+      internalID: -8702133651109953973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_85
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 235
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8cb44848412d14e8dac3469e2d4606
+      internalID: 8523386035629332570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_86
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 235
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f8af090ad3f748ba1157243d3b1b4
+      internalID: 4914972314642127120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_87
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 235
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8d5f39af5e2904cb2167f3bf51d180
+      internalID: -1888249211491498609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_88
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb109880b07494ea5b8da97a2f7e65
+      internalID: -5654720746501936203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_89
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 235
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340735d6bc1ed84468bd077b613a2c22
+      internalID: 1241033464021803190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_90
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 235
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de15ac5411c9f4a9f8e8add2c31508
+      internalID: 288404477213483027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_91
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 235
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187767ceb8fc53a4981feb654fd8f07a
+      internalID: 4264339270552357081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_92
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 229
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af62b2e471b1294c875787bed987a1a
+      internalID: -1696279321016827477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_93
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 235
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e278629d1fe5b6240b57db80c1ecb7a3
+      internalID: -8964344438139839599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_94
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 235
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6eed6843c7714995dd02092ce377b
+      internalID: 1046067430626478620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_95
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 235
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86db8b484fe6d84bb711c656cd6ac24
+      internalID: 4184168883877640990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_96
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 235
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7dcc311ff8d4499d4435c234db64b
+      internalID: -1833656360859726180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_97
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 235
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592ba65b06730e4bbe5e936cf8ffe1c
+      internalID: -4211955504762941783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_98
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 235
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e457e33c02ac25448efd5c506577b18
+      internalID: -6793606820414965924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_99
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 189
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05804237bc80a3d428f95a83149c750f
+      internalID: -2423496017218638581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 189
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7024c613b3a157d4fb578cf18ce37cff
+      internalID: 1712515186718808409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 188
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ed8c0a1e3583344b92fc0f8b9f3816
+      internalID: 5141006538616697012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_102
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 187
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec420c2a0f9b7e147b07f1d333f00057
+      internalID: 1146121748608973400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_103
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 197
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c925511285058b142ab20e499d1453b7
+      internalID: 8235391554397545924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_104
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 197
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c00c162c684de74284d39eb2d47ad75
+      internalID: -8275284995090765694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_105
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 197
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a81acc0562c054ba0fddac59e5795d
+      internalID: 3720632366739723766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 197
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898d9b1705d0084fbda7d27886c4373
+      internalID: -6231390319414550328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_107
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 196
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a441b8fee9064f964544bfdbb90ab
+      internalID: 52060700282420888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_108
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 195
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5559ddca8342ae4ca42b2028ea5ef1c
+      internalID: 855309993940872261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_109
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 194
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852b5b4a0806aa438e9dff25f01d812
+      internalID: 4013261703676230210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_110
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 189
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a8b2e5e2b1494392bd423d9a315e0
+      internalID: -5792484605581215312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_111
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 185
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8041519d789c3e54b8d07abc6ddf11f9
+      internalID: -317242116565470287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_112
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 185
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acefef95746bcb445920c0665573a0ab
+      internalID: -2274016559462403863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_113
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 185
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74731223084c5c94d885bcd3a865b0cf
+      internalID: -8067665870582614013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_114
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 185
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ba151b8cc1c524596eef7c1a6ee10f
+      internalID: 2003696195457380353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_115
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 185
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa29bbb8f9fd5e428919f705579fd55
+      internalID: 24117588926124460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_116
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 202
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52a83f981296e4a8f3b5ea42f6d0bd
+      internalID: 3979897369886767348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_117
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 201
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b22b58f36e1244bada265875d8adc4
+      internalID: 2890294485190040991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_118
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 200
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a17c37327cb74bb987c3d597787f1
+      internalID: 3389935268216909919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_119
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 199
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87875d9a419b354480f323b429c9b3c
+      internalID: 1621192153707476395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_120
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 199
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dbbb51081df88438c713073d5919c0
+      internalID: 3717384483322203593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_121
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 198
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f353026dba3c446a027044b056bad4
+      internalID: -3602087820094978876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_122
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 199
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc92264214977a4195e7bb38a3d7811
+      internalID: 1928744330762167920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_123
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 199
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cfb59b63a45b42afaabf8085b4b3f
+      internalID: 1308841789555028561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_124
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 199
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2e6e1d3096fc2409d677dec441f6ad
+      internalID: -3120697912151551346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_125
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 201
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee57024f0858aa7469d8130963ef16bf
+      internalID: 6034735139824663754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_126
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 203
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb83e8ec4f674346b85efb92e0f7269
+      internalID: 7676560025756871972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_127
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 204
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60ad216cbe19f41bd675cf7016ee5b
+      internalID: 3955186670310438560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_128
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 185
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc565f58d147c8d4394d88f9fb97ed48
+      internalID: 3061731541113217478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 140
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb5aaa091a2b954f9a128e80043107c
+      internalID: 884291486329058008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_130
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 140
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fbf807cac6d244b950c15210c39e34
+      internalID: -8604552145211939412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_131
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 140
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f59a6c7bd31241ab2028775c96ee2
+      internalID: -145788787311503127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_132
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 140
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e535fcf75f71f224d86ca1aa76ec4e1d
+      internalID: 625053359012492679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_133
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 140
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62df6e94caed14fada560b9a54baf4
+      internalID: -8884778806946761712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_134
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a3c76e4dde644a99634dc5191d0f4
+      internalID: 2775074661893105489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_135
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 140
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73ba79e2c0df7b4cb84a78caf95d481
+      internalID: -8470089621209356317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_136
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 140
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d281de6f7d7ba24fac16bb2fa018334
+      internalID: -332398273681809428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_137
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 140
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd15380b7fcf75549942439595b327bb
+      internalID: 386504570411703200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_138
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 140
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b523f095bc3be46b0eedfbca490b4c
+      internalID: -7088671443938171325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_139
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 140
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc4def3cee3c6042878e4a9a093a4d0
+      internalID: -204535802150305207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_140
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969231318169452499d56e9059d18a2e
+      internalID: 7218067547497485014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_141
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 140
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a8da2b6080764c83fbfd53502edc6
+      internalID: -6043782303290418071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_142
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 140
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ef99f65416296448935f2e76d3653b
+      internalID: -5799265414423424766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_143
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 140
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26877c638f1b944a540ee29f1bcbc7
+      internalID: -6073651681252576770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_144
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 140
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f28ab3ff48ae7458155970934705a9
+      internalID: -4809728215355546154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_145
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 140
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f71ad16df7e54da6768708352023a
+      internalID: -4051261650206051619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_146
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fda07993e936a4697d37c371f05642
+      internalID: 3362056365546962103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_147
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 140
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96350343bd625b542857f5975ca39209
+      internalID: -599943150026456996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_148
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 142
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7538c6c45ffb4a9ef3605e7b34e3f
+      internalID: 1755759988873778821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_149
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 141
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b2bf09071bc945a1b85c2c19defb8
+      internalID: -7173107870365899822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_150
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 140
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb30d1e630ede9448b595631e5b2fee
+      internalID: -5661446398259279546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_151
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 140
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a2a890b223c85438fdf2177af4ca1d
+      internalID: -4331513255901680584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_152
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 140
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef962272bd36124888ad62b8a155ba9
+      internalID: -1920183529780339045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_153
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 140
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e1f9bddb86f9c4b877521b8fbd4cf7
+      internalID: 670247392077546460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_154
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 140
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca1d7a322e5cb4f94daa99425aac04
+      internalID: 4748351396855061975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_155
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 140
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb220482a528b93409370cbf1a5a0aa0
+      internalID: 4978608143032575403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_156
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 140
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851bb115253a5ab41b9e3fa57a44f256
+      internalID: -6478282406741920380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_157
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 140
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec8ddaaa9e4870449333b8bbe082d65
+      internalID: -7797898195314320938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_158
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 140
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430142361420354e9f8c47e9e7630c2
+      internalID: -2101626928598004489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_159
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 140
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3275bf481110dad41bb2b5aa8ad476b1
+      internalID: 6981158669021575145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_160
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 140
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bfa785d0f3a74408d354c9c07f2869
+      internalID: 5188952755629153874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_161
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 140
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4099fc2f92d5448e6ac3c1087c243
+      internalID: -1640279162547807814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_162
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 76
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db48de10760e94794dec9966b7f7a6
+      internalID: 1080893513688589288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_163
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 131
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb13345fa5bc8f4fa356c458a0faf82
+      internalID: -2238146939462078426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_164
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 76
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823aed07055a0d843b598753b2b6d619
+      internalID: 2825976022080667433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_165
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32eaee304548148838cc109f883785
+      internalID: -8195265667446602642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_166
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 76
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f98d504f8979c4a97d8973336dc0cc
+      internalID: -869443974522771897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_167
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 76
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2424156527e8f7e478b2916f10e0b50f
+      internalID: -2410964091955850835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_168
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf7992915d29b43a4ce929021a4ced
+      internalID: 7478715922671143218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f506cbfabddf14b8198d5077b3fd4d
+      internalID: -8969231859724043588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_170
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 79
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2e9ffc28c3919429b43844e8284c8c
+      internalID: 817808957871839042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_171
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 79
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb49302aa2db00445b7466e1420329b2
+      internalID: -7228407480658616125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_172
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 76
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c09d3bbb8c99045853a7660f1dde63
+      internalID: 3943799310676570801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_173
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 76
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee7ee9af0b115429a6e8439242c347
+      internalID: 6049236885893510157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_174
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 76
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d56c1abf2b0324bb77ed0f96514e06
+      internalID: 6730588942409613720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_175
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 76
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be88e6cd936e824abc3f9293ca774e5
+      internalID: -7683302671439704599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_176
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 76
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3a352cbaa69543be1647f71f37c04
+      internalID: 1876531936687273441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_177
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 76
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c550cab2624a114c8d7bc212ce2d4be
+      internalID: -8844263350669257899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_178
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 76
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849fa957dedd63042a073722ffc14906
+      internalID: -7719675609647554346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_179
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 76
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c433375da16bef142a9d888c69e889b7
+      internalID: -8414021577874497794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_180
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 76
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e926c08731b94e88ba10e249e5e1b
+      internalID: 5094228191253543325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_181
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 126
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a16f84a6d2e0346ba97f598465759a
+      internalID: 2928771199457577315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_182
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 76
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f284f5f30d2c74fbd44e13ae638a4b
+      internalID: 6256904069104325045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_183
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 128
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0cd24a27a60a468e2212422754c23
+      internalID: -9165777440059556883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_184
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 76
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca450536d777a4daf95dee95fb8b72
+      internalID: -8306573517048481789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_185
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 119
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c10448e69973468815d84f099f3f9
+      internalID: -1735246503815820956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_186
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 76
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21cb6196da7eb549a5d0343c5c65a96
+      internalID: 6576864671438663684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_187
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 76
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8038ebb4d89924db2d4e8679a2e3c0
+      internalID: -3066679289591627498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_188
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 120
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff321fbbb527ee4d8c31f18e822e831
+      internalID: 7239317917680598886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_189
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 94
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225428b60ba1ce4898e7b1d2f6cf50e
+      internalID: 6649405092110456473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_190
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 106
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8564da807e0692c4ea73e16a851847d3
+      internalID: 3265696339515128691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_191
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 116
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd6caec7f7b414fb0e649b6f24a598
+      internalID: 9059406798991938450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_192
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 115
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f790fd92307cc488c45701a922f2a2
+      internalID: 260483683269290650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_193
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 99
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e6f494188dbf48b906032a94dba0f
+      internalID: -4676502890859771347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_194
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 76
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47642e7be09991646b50293370020dfd
+      internalID: -3487254570881361614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_195
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 92
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69915c543f5942b48aac7af8cb2836b2
+      internalID: -596346768485372775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_196
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b0386bc17d5da45bb107bec459ba19
+      internalID: 2166543046177284246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_197
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 29
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7124a2ee3488ad46895a1e2d7914a7f
+      internalID: -668450623187745601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_198
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 37
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ded1e5f2a17e4993053716c3e6d43
+      internalID: 82784420196698966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_199
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0485c693831000438d559e2b1a9d7a6
+      internalID: -4637154908821141202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_200
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 29
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ffa95ebfeef6d458ed58da0526712e
+      internalID: 4902918865409806042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_201
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 19
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e85cbf176156664bbae36ac8ad67c45
+      internalID: -20361982290645148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_202
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a47e40e64775a41a97d34bd71d9d62
+      internalID: 8387724246566830406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_203
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602358dd610ada48accc743bf57e7a3
+      internalID: -7160372784236472949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_204
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 7
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10de05a50d5a4847926ab5aa171064d
+      internalID: -5998474943386563006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_205
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 7
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0a39a30d187394aa320a0a3e73a769
+      internalID: 5153644059988002729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_206
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 7
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a07ac63f26f464abd77d1274ef13c2
+      internalID: -8662846251547074790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_207
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 7
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d3caa8fea8334d8e1ecc27ec949b6
+      internalID: 7363946309571104723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_208
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 7
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3566092b3c2d2d4cbe77e567e72869b
+      internalID: 6348573779135834428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_209
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 7
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533bb6489deb82408e3f91636b22505
+      internalID: 528918995615176014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_210
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 7
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba6a4242baa3a947b312dd78e64e96a
+      internalID: -5692334125086582666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_211
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 7
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84fb45cb3284954983523f36b98970b
+      internalID: 5826310850233056652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_212
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccaf6908812d2a4e8995d2d1da5a157
+      internalID: 3147131686140266355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_213
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 7
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2db0f23bb858c4dac8659c84358b88
+      internalID: -5626943179938752513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_214
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 7
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3203cdf46d043d4996edeee146388a4
+      internalID: 506599637465320751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_215
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 7
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a238b6108abbe4418a93a87f205db9f
+      internalID: 4205562541665851753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_216
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 8
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97250139f0727104eb89999e304f34b8
+      internalID: -5042445205077314255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_217
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 8
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec74ed4c9824fc042a4889ab3e374afd
+      internalID: 3324726432973054714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_218
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7dd7be020021442b4154efdb14ae6d
+      internalID: 4591952734716764729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_219
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 8
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbb3cebd7fea8342aa1eab92b8bffcc
+      internalID: -1795971140676337670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_220
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 11
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8277d12c739868a43ac2e102d040dc26
+      internalID: 7392380076510724520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JaneFireStorm-3_221
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5aba6c7217b9f4d84f2e0301680cc8
+      internalID: 2054517802977229118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
