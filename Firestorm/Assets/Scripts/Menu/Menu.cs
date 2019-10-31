@@ -15,13 +15,13 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene(0);
 
     }
-    public void CharacterSelection ()
+    public void LevelSelection ()
 	{
-    SceneManager.LoadScene("Character Selection"); 
+        SceneManager.LoadScene(1); 
 	}
     public void Options ()
     {
-        SceneManager.LoadScene( 2);
+        SceneManager.LoadScene( 7);
     }
     public void HowToPlay ()
     {
@@ -41,6 +41,7 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene( 5);
     }
+
 
 
     public void QuitGame ()
