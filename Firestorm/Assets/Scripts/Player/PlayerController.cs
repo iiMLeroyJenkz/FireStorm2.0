@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
     {
         Vector3 velocity = new Vector3();
         float xSpeed = 0.0f;
-        float ySpeed = GetComponent<Rigidbody>().velocity.y;
+        float ySpeed = GetComponent<Rigidbody2D>().velocity.y;
 
         xSpeed = Input.GetAxisRaw("Horizontal") * moveSpeed;
 
@@ -56,11 +56,11 @@ public class PlayerController : MonoBehaviour
 
         velocity.x = xSpeed;
         velocity.y = ySpeed;
-        GetComponent<Rigidbody>().velocity = velocity;
+        GetComponent<Rigidbody2D>().velocity = velocity;
 
         if (Input.GetButton("Jump")&& onGround && letGoOfJump)
         {
-            GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            GetComponent<Rigidbody2D>().AddForce(Vector3.up * jumpForce, ForceMode2D.Impulse);
             onGround = false;
             letGoOfJump = false;
             isFalling = false;

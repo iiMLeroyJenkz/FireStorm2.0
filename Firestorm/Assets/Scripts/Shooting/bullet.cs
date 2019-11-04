@@ -5,7 +5,9 @@ using UnityEngine;
 public class bullet : MonoBehaviour
 {
     public float Speed = 20f;
+    public int damage = 40;
     public Rigidbody2D rb;
+   
 
 
     // Start is called before the first frame update
@@ -15,7 +17,12 @@ public class bullet : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        Debug.Log(hitInfo.name);
+       EnemyScript enemy = hitInfo.GetComponent<EnemyScript>();
+        if (enemy != null)
+        {
+            enemy.TakeDamage(damage);
+        }
         Destroy(gameObject);
+
     }
 }
