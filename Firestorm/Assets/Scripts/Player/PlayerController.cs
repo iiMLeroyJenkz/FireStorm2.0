@@ -32,7 +32,7 @@ public class PlayerController : MonoBehaviour
 
         xSpeed = Input.GetAxisRaw("Horizontal") * moveSpeed;
 
-        if(Input.GetButton("Jump") && !letGoOfJump && !onGround && !isFalling && GetComponent<Rigidbody>().velocity.y <= 0)
+        if(Input.GetButton("Jump") && !letGoOfJump && !onGround && !isFalling && GetComponent<Rigidbody2D>().velocity.y <= 0)
         {
             isFalling = true;
 			
@@ -60,7 +60,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButton("Jump")&& onGround && letGoOfJump)
         {
-            GetComponent<Rigidbody2D>().AddForce(Vector3.up * jumpForce, ForceMode2D.Impulse);
+            GetComponent<Rigidbody2D>().AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             onGround = false;
             letGoOfJump = false;
             isFalling = false;
@@ -69,7 +69,7 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    void OnCollisionEnter(Collision collision)
+    void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Ground")
         {
@@ -78,9 +78,7 @@ public class PlayerController : MonoBehaviour
         }
 		 else if(collision.gameObject.tag == "Coin")
         {
-            Debug.Log("COIN COLLECTED");
-			//ADD TO SCORE + 1
-			//look for tagged item to increment score
+
 
 			  Destroy(collision.gameObject);
         }

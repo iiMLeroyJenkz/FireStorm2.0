@@ -1,11 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class PlayerHP : MonoBehaviour
+public class Boss1 : MonoBehaviour
 {
-
-     public int health = 100;
+    public int damage = 20;
+    public int health = 100;
+    public Slider healthBar;
 
     public GameObject deathEffect;
 
@@ -17,12 +19,17 @@ public class PlayerHP : MonoBehaviour
         {
             Die();
         }
+  
     }
 
     void Die()
     {
         Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
+    }
+    private void Update()
+    {
+        healthBar.value = health;
     }
 }
 
