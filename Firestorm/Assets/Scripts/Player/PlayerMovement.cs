@@ -45,17 +45,16 @@ public class PlayerMovement : MonoBehaviour
             if (Input.GetAxisRaw("Horizontal") != 0 || Input.GetAxisRaw("Vertical") != 0)
             {
                 isMoving = true;
-                m_animator.SetLayerWeight(1, 1);
 
-                if (Input.GetAxisRaw("Horizontal") != 0)
+                if (Input.GetAxisRaw("Jogging") != 0)
                 {
                     if (m_horizontalMovement < 0)
                     {
-                        m_animator.SetBool("Left", true);
+                        m_animator.SetBool("Running", true);
                     }
                     else
                     {
-                        m_animator.SetBool("Right", true);
+                        m_animator.SetBool("Running", true);
                     }
                 }
             }
@@ -86,13 +85,12 @@ public class PlayerMovement : MonoBehaviour
 
         xSpeed = Input.GetAxisRaw("Horizontal") * moveSpeed;
 
-        if (Input.GetButton("Jump") && !letGoOfJump && !onGround && !isFalling && GetComponent<Rigidbody2D>().velocity.y <= 0)
+        if (Input.GetButton("Jumping") && !letGoOfJump && !onGround && !isFalling && GetComponent<Rigidbody2D>().velocity.y <= 0)
         {
             isFalling = true;
-
         }
 
-        if (Input.GetButton("Jump"))
+        if (Input.GetButton("Jumping"))
         {
             animator.SetBool("Jumping", true);
             if (isFalling)
@@ -124,10 +122,12 @@ public class PlayerMovement : MonoBehaviour
     }
     private void ResetAnimDirection()
     {
-        m_animator.SetBool("Left", false);
-        m_animator.SetBool("right", false);
-        m_animator.SetBool("Forward", false);
-        m_animator.SetBool("Backward", false);
+        m_animator.SetBool("Jogging", false);
+        m_animator.SetBool("Running", false);
+        m_animator.SetBool("Crouching", false);
+        m_animator.SetBool("CrouchShooting", false);
+        m_animator.SetBool("Jumping", false);
+        m_animator.SetBool("Shooting", false);
     }
 
     void OnCollisionEnter2D(Collision2D collision)
