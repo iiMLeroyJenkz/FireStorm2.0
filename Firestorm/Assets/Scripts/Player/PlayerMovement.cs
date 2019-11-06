@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class playerController : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     private static int DEFAULT_RUN_SPEED = 5;
 
@@ -12,6 +13,11 @@ public class playerController : MonoBehaviour
     private Rigidbody2D m_rigidBody;
     private float m_horizontalMovement;
     private float m_verticalMovement;
+    public float jumpForce = 1.0f;
+    private bool onGround = false;
+    private bool letGoOfJump = false;
+    private bool isFalling = true;
+    Animator animator;
 
     [HideInInspector]
     public float moveSpeed;
@@ -22,6 +28,7 @@ public class playerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        animator = GetComponent<Animator>();
         m_animator = GetComponent<Animator>();
         m_rigidBody = GetComponent<Rigidbody2D>();
         if (m_gameManager == null)
@@ -52,17 +59,6 @@ public class playerController : MonoBehaviour
                     }
                 }
             }
-        else if (Input.GetAxisRaw("Vertical") != 0)
-        {
-            if (m_verticalMovement < 0)
-            {
-                m_animator.SetBool("Forward", true);
-            }
-            else
-            {
-                m_animator.SetBool("Backward", true);
-            }
-        }
         else
         {
             isMoving = false;
@@ -81,11 +77,49 @@ public class playerController : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        m_horizontalMovement = Input.GetAxisRaw("Horizontal");
-
-        m_verticalMovement = Input.GetAxisRaw("Vertical");
 
         m_rigidBody.velocity = new Vector2(m_horizontalMovement * moveSpeed, m_verticalMovement * moveSpeed);
+
+        Vector3 velocity = new Vector3();
+        float xSpeed = 0.0f;
+        float ySpeed = GetComponent<Rigidbody2D>().velocity.y;
+
+        xSpeed = Input.GetAxisRaw("Horizontal") * moveSpeed;
+
+        if (Input.GetButton("Jump") && !letGoOfJump && !onGround && !isFalling && GetComponent<Rigidbody2D>().velocity.y <= 0)
+        {
+            isFalling = true;
+
+        }
+
+        if (Input.GetButton("Jump"))
+        {
+            animator.SetBool("Jumping", true);
+            if (isFalling)
+            {
+                ySpeed = 0;
+                letGoOfJump = true;
+                isFalling = true;
+
+            }
+            else
+            {
+                letGoOfJump = true;
+            }
+        }
+
+        velocity.x = xSpeed;
+        velocity.y = ySpeed;
+        GetComponent<Rigidbody2D>().velocity = velocity;
+
+        if (Input.GetButton("Jump") && onGround && letGoOfJump)
+        {
+            GetComponent<Rigidbody2D>().AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            onGround = false;
+            letGoOfJump = false;
+            isFalling = false;
+
+        }
 
     }
     private void ResetAnimDirection()
@@ -95,4 +129,26 @@ public class playerController : MonoBehaviour
         m_animator.SetBool("Forward", false);
         m_animator.SetBool("Backward", false);
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Ground")
+        {
+            onGround = true;
+            animator.SetBool("Jumping", false);
+        }
+        else if (collision.gameObject.tag == "Coin")
+        {
+
+
+            Destroy(collision.gameObject);
+        }
+        else if (collision.gameObject.tag == "DeathFloor")
+        {
+            Debug.Log("PLAYER DEATH");
+            SceneManager.LoadScene(5);
+        }
+    }
 }
+
+
