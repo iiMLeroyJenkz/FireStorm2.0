@@ -78,7 +78,7 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
 
-        m_rigidBody.velocity = new Vector2(m_horizontalMovement * moveSpeed, m_verticalMovement * moveSpeed);
+
 
         Vector3 velocity = new Vector3();
         float xSpeed = 0.0f;
