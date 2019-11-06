@@ -4,23 +4,17 @@ using UnityEngine;
 
 public class BulletCollisions : MonoBehaviour
 {
+    public int health = 100;
+    public float Speed = 20f;
+    public int damage = 40;
+    public Rigidbody2D rb;
+    public GameObject deathEffect;
 
     // Update is called once per frame
     void Update()
     {
         
     }
-    void OnCollisionEnter(Collision collision)
-    {
-       if (collision.gameObject.tag == "Enemy")
-        {
-            Debug.Log("KILLED");
-            Destroy(collision.gameObject);
-        }
-    }
-    public float Speed = 20f;
-    public int damage = 40;
-    public Rigidbody2D rb;
 
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
@@ -30,7 +24,11 @@ public class BulletCollisions : MonoBehaviour
             enemy.TakeDamage(damage);
         }
         Destroy(gameObject);
-        Debug.Log("oi m8");
+    }
 
+    void Die()
+    {
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
+        Destroy(gameObject);
     }
 }

@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class EnemyScript : MonoBehaviour
 {
-    public int health = 100;
-
+    public int health = 200;
+    public int damage = 40;
     public GameObject deathEffect;
 
     public void TakeDamage (int damage)
@@ -15,6 +15,7 @@ public class EnemyScript : MonoBehaviour
         if(health < 0)
         {
             Die();
+            Destroy(gameObject);
         }
     }
 
@@ -24,15 +25,4 @@ public class EnemyScript : MonoBehaviour
         Destroy(gameObject);
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
