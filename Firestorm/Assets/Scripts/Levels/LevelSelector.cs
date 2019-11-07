@@ -39,6 +39,16 @@ public class LevelSelector : MonoBehaviour
         SceneManager.LoadScene( 6);
     }
 
+    public void Intro ()
+    {
+        SceneManager.LoadScene(7);
+    }
+    
+    public void Credits ()
+    {
+        SceneManager.LoadScene(8);
+    }
+
 
     public void QuitGame ()
     {
