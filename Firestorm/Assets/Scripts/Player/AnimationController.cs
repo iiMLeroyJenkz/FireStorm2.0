@@ -21,13 +21,15 @@ public class AnimationController : MonoBehaviour
             anim.SetBool("isJogging", false);
         }
       if(Input.GetKey(KeyCode.LeftArrow))
-      {
-          anim.SetBool("isJoggingleft", true);
-      }
-      else
-      {
-          anim.SetBool("isJoggingleft", false);
-      }
+        {
+            anim.SetBool("isJoggingleft",true);
+        }
+        else
+        {
+            anim.SetBool("isJoggingleft", false);
+        }
+      
+      
       if (Input.GetKeyDown(KeyCode.Space))
         {
             anim.SetTrigger("Jump");
