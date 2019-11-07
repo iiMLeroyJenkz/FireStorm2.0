@@ -42,6 +42,7 @@ public class AnimationController : MonoBehaviour
         {
             anim.SetTrigger("Shoot");
         }
+      
     }
    
 }
