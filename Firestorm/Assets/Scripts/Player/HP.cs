@@ -1,17 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HP : MonoBehaviour
 {
 
-     public int health = 100;
+     private float health = 100;
 
     public GameObject deathEffect;
 
-    public void TakeDamage(int damage)
+    [Header("Unity Stuff")]
+    public Image healthBar;
+
+    public void TakeDamage(float amount)
     {
-        health -= damage;
+        health -= amount;
+
+        healthBar.fillAmount = health / 100f;
 
         if (health < 0)
         {

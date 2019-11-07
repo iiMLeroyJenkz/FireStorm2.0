@@ -794,7 +794,7 @@ GameObject:
   - component: {fileID: 382220000}
   - component: {fileID: 382220003}
   m_Layer: 5
-  m_Name: Button
+  m_Name: MainMenuButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1501,7 +1501,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1076726836}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 896, y: 239.82487, z: 0}
+  m_LocalPosition: {x: 894, y: 291, z: 0}
   m_LocalScale: {x: 15.304243, y: 15.30778, z: 0.5528031}
   m_Children: []
   m_Father: {fileID: 0}
