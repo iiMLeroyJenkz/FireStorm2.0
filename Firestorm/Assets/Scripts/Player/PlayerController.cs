@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButton("Jump"))
         {
-			animator.SetBool("Jumping",true);
+			animator.SetBool("Jump",true);
             if (isFalling)
             {
                 ySpeed = 0;
@@ -74,7 +74,7 @@ public class PlayerController : MonoBehaviour
         if(collision.gameObject.tag == "Ground")
         {
             onGround = true;
-			animator.SetBool("Jumping",false);
+			animator.SetBool("Jump",false);
         }
 		 else if(collision.gameObject.tag == "Coin")
         {
