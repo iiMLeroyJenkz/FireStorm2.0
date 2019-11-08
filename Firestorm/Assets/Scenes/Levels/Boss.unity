@@ -655,5 +655,10 @@ PrefabInstance:
       propertyPath: jumpForce
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 618723815448905045, guid: 81aa0c2fee9ef094696edd16713e6b05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.29
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81aa0c2fee9ef094696edd16713e6b05, type: 3}
