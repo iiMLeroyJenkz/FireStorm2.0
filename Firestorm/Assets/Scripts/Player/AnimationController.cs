@@ -5,7 +5,7 @@ using UnityEngine;
 public class AnimationController : MonoBehaviour
 {
     private Animator anim;
-
+  
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -13,9 +13,13 @@ public class AnimationController : MonoBehaviour
 
     private void Update()
     {
+
         if (Input.GetKey(KeyCode.RightArrow))
         {
             anim.SetBool("isJogging", true);
+
+
+
         }else
         {
             anim.SetBool("isJogging", false);
@@ -44,5 +48,5 @@ public class AnimationController : MonoBehaviour
         }
       
     }
-   
+
 }
