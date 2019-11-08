@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
 
     private float gameSpeed = 1.0f;
     public float GameSpeed { get { return gameSpeed; } }
+    public float speedIncrease = 0.05f;
     
 	private void Awake()
     {
@@ -27,6 +28,6 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        gameSpeed += speedIncrease * Time.deltaTime;
     }
 }
